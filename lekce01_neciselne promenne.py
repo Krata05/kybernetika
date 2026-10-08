@@ -43,3 +43,14 @@ print("*"*10)
 
 rozdil_mezi = "10" + "10"
 a = 10 + 10
+print(rozdil_mezi)
+print(a)
+
+retezec_znaku = "ahoj kámo"
+print(retezec_znaku)
+
+q = str(5)+". karamelek"
+print(q)
+
+r = 5 + int(a)
+print(r)

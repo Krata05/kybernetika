@@ -1,4 +1,4 @@
-cislo = 11
+cislo = 11 # = prirazzuje hodnotu promenne
 pocet_kusu_dobytka = 3
 
 print(pocet_kusu_dobytka)
@@ -19,5 +19,9 @@ print(nevim)
 print(type(nevim))
 
 nevim = cislo ** pocet_kusu_dobytka # mocnina
+print(nevim)
+print(type(nevim))
+
+nevim = cislo ** (1/pocet_kusu_dobytka) # odmocnina
 print(nevim)
 print(type(nevim))
