@@ -29,6 +29,8 @@ print(not 5==6)     # tohle je zbytecny
 
 print((5>7 and 4==4) or 5>4)
 
+print(*(5 * "*"))
+
 retezec_znaku = "ahoj kámo"
 print(retezec_znaku)
 print(type(retezec_znaku))
